@@ -4,3 +4,6 @@
 
 /.vs
 /out/build
+/container/container.cpp
+/container/container.h
+/container/queue_adapter.cpp

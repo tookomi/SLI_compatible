@@ -4,7 +4,11 @@
 #pragma once
 
 #include <iostream>
-#include <algorithm>
+//#include <algorithm>
+//#include "../container/container.h"
+#include "../container/queue_adapter.h"
+#include <deque>
+#include <iterator>
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
 
